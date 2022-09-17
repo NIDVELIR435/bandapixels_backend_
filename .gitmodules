@@ -1,0 +1,3 @@
+[submodule "shared-backend"]
+	path = shared-backend
+	url = https://theroarsf:f6k2Ew8uy2MbWHyppybh@bitbucket.org/babydestination/shared-backend.git
